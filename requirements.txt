@@ -3,5 +3,4 @@ pandas
 numpy
 plotly
 pillow
-pickle==4.0
 sklearn
